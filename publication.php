@@ -1,0 +1,1 @@
+<p><?php echo '<a href="pub.php?offid='.$rows['offid'].'"  class="btn btn-lg btn-primary btn-block" > voir plus de detaill </a><br>'; ?></p><br>
